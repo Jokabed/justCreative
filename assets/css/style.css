@@ -1,0 +1,17 @@
+.img1{
+    background-image: url(../img/inicio.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.orange{
+    background-color: #e47200;
+}
+.orange:hover{
+    background-color: #f18837;
+}
+.rounded{
+    border-radius: 0.5rem;
+}
